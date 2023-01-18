@@ -8,7 +8,8 @@
 <span style="color: black; background: black; span:hover { color: white}">- 📫 How to reach me **akshazero@gmail.com**</span>
 
 <span style="color: black; background: black; span:hover { color: white}">- ⚡ Fun fact **Code For Fun, Game For Fun**</span>
-
+<span class="spoiler-text" tabindex="0">clickable, tabbable, and
+    hoverable</span>
 
 <details>
     <summary>More --</summary>
