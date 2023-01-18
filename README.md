@@ -20,5 +20,9 @@
         <img align="center-left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thoriqakhdn&theme=dark&show_icons=true&locale=en" alt="thoriqakhdn" /> 
         <img align="center-right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=thoriqakhdn&theme=dark&show_icons=true&locale=en&layout=compact" alt="thoriqakhdn" />
     </a>
+    <a>
+        <img align="center-left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thoriqakhdn&theme=dark&show_icons=true&locale=en" alt="thoriqakhdn" /> 
+        <img align="center-right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=thoriqakhdn&theme=dark&show_icons=true&locale=en&layout=compact" alt="thoriqakhdn" />
+    </a>
     <p align="right"> <img src="https://komarev.com/ghpvc/?username=thoriqakhdn&label=Profile%20views&color=0e75b6&style=flat" alt="thoriqakhdn" /> </p>
 </details>
