@@ -3,13 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thoriqakhdn&label=Profile%20views&color=0e75b6&style=flat" alt="thoriqakhdn" /> </p>
 
-- 🌱 I’m currently learning **Laravel**
+<span class="bb_spoiler"><span>- 🌱 I’m currently learning **Laravel**</span></span>
 
-- 📫 How to reach me **akshazero@gmail.com**
+<span class="bb_spoiler"><span>- 📫 How to reach me **akshazero@gmail.com**</span></span>
 
-- ⚡ Fun fact **Code For Fun, Game For Fun**
+<span class="bb_spoiler"><span>- ⚡ Fun fact **Code For Fun, Game For Fun**</span></span>
 
-<h3 align="left">Connect with me:</h3>
+
+
+
+<details>
+    <summary>More --</summary>
+    <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thoriqakhdn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thoriqakhdn" height="30" width="40" /></a>
 <a href="https://instagram.com/thoriq.akhdn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thoriq.akhdn" height="30" width="40" /></a>
@@ -21,4 +26,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thoriqakhdn&show_icons=true&locale=en&layout=compact" alt="thoriqakhdn" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thoriqakhdn&show_icons=true&locale=en" alt="thoriqakhdn" /></p>
+</details>
+
+
+
 
