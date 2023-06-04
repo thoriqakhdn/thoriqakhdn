@@ -2,7 +2,7 @@
 <h3 align="center">A passionate student from Indonesia</h3>
 
 
-<span style="color: black; background: black; span:hover { color: white}">- 🌱 I’m currently learning : **Laravel**</span>
+<span style="color: black; background: black; span:hover { color: white}">- 🌱 I’m currently learning : **React**</span>
 
 <span style="color: black; background: black; span:hover { color: white}">- 📫 How to reach me : **akshazero@gmail.com**</span>
 
